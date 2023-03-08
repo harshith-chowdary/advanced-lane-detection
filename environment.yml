@@ -1,0 +1,24 @@
+name: Harshith
+dependencies:
+    - python==3.10.4
+    - numpy
+    - matplotlib
+    - jupyter
+    - pillow
+    - scikit-learn
+    - scikit-image
+    - scipy
+    - h5py
+    - eventlet
+    - flask-socketio
+    - seaborn
+    - pandas
+    - imageio
+    - pip
+    - pip:
+        - moviepy
+        - opencv-python
+        - requests
+        - tensorflow
+        - keras
+        - docopt
